@@ -6,3 +6,5 @@ fs.readFile('/Users/anushayalakala/Desktop/test.txt', (err, data) => {
     let processedData = data.toString().replace(/\d/g,'')
     console.log(processedData); 
 }) 
+
+dev-1 added this line
